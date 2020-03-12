@@ -1,0 +1,18 @@
+{
+    "name": "coderiekelt/sjekkietime",
+    "description": "Ja hoor, ik zie het wel! Het is S J E K K I E T I M E!",
+    "type": "project",
+    "license": "Open Sjekkie License (MIT)",
+    "authors": [
+        {
+            "name": "Riekelt Brands",
+            "email": "riekeltbrands291@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SjekkieTime\\": "src/"
+        }
+    }
+}
